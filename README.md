@@ -8,6 +8,15 @@ O sistema se conecta a uma rede **Wi-Fi** 📶, permitindo a transmissão contí
 
 ## 🔧 Requisitos
 
+---
+
+## 📸 Spoiler do Projeto
+
+> Veja abaixo uma prévia do sistema:
+
+![Tela de Login](./www.reallygreatsite.com3333.png)
+
+---
 Antes de começar, você precisará de:
 
 - **ESP32** 🔧
